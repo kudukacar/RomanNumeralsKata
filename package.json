@@ -1,0 +1,22 @@
+{
+  "name": "romannumeralskata",
+  "version": "1.0.0",
+  "description": "roman numerals kata",
+  "main": "roman_numerals.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kudukacar/RomanNumeralsKata.git"
+  },
+  "author": "Manju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kudukacar/RomanNumeralsKata/issues"
+  },
+  "homepage": "https://github.com/kudukacar/RomanNumeralsKata#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
